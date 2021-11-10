@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Kaleigh! :wave:"
-  sub = "I'm a bean head"
+  sub = "I'm a senior studying theatre and informatics"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -51,13 +51,9 @@ pygmentsCodeFences=true
   github = "https://github.com/"
   twitter = "https://twitter.com/"
   linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
   facebook = "https://www.facebook.com/"
   youtube = "https://www.youtube.com/"
   instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
 
 [params.contact]
   email = ""
