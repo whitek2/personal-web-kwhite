@@ -103,3 +103,4 @@ pygmentsCodeFences=true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+No newline at end of file
