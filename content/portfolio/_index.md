@@ -3,4 +3,4 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
-You'll add here a general introduction of your portfolio page.
+Click on any of the images below to see some of my past works in costume production, graphic design, and journalism!
